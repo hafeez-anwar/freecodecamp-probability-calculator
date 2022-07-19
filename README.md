@@ -4,6 +4,8 @@ This is the solution for the Probability Calculator project of the course SCIENT
  
 The boilerplate of the project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
 
+My solution can be found at https://replit.com/@HafeezAnwar/boilerplate-probability-calculator-6#prob_calculator.py
+
 By running the main.py, you will see the following where the code successfully passes all the tests in the test module
 
 
