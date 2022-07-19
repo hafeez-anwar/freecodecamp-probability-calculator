@@ -7,4 +7,4 @@ The boilerplate of the project can be found at https://www.freecodecamp.org/lear
 By running the main.py, you will see the following where the code successfully passes all the tests in the test module
 
 
-![output](https://user-images.githubusercontent.com/109077603/179677853-6cd390ef-3452-4f22-b1b2-ed68c73bf22f.JPG)
+![output](https://user-images.githubusercontent.com/109077603/179679097-743799f6-08a8-444d-8130-7a844ab5e286.JPG)
